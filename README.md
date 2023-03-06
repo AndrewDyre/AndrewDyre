@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AndrewDyre
+- 👋 Hi, I’m @AsterMura
 - 👀 I’m interested in learning everything i can
 - 🌱 I’m currently learning PHP, Jscript, Nextjs
-- 💞️ I’m looking to collaborate on nothing, im dumb lol
-- 📫 How to reach me on Telegram @AndrewlovesJames
+- 💞️ I’m looking to collaborate on everything i can, experience is key to success
+- 📫 How to reach me on Telegram @AsterMura
